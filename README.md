@@ -5,18 +5,19 @@
 </p>
 
 
+<p align = "center"> <B> TELA DE COTAÇÕES SANTANDER</B></p>
 
-<p align = "center"> <B> TELA DE COTAÇÕES DO SANTANDER</B></p>
+Evento: SANTANDER DEV WEEK.
 
-Evento proposto pelo Santander em parceria com Digital Innovation One Inc.
+IDEALIZADORES: Santander em parceria com Digital Innovation One Inc.
 
-Desenvolvido durante o esquenta Dev Week.
+OBJETIVO:  Recriar a tela de cotações do APP do Santander em um Website Responsivo utilizando java e Angular.
 
-Objetivo:  desenvolvimento de uma  API REST  com Spring Boot(Spring Web), resultando em uma  tela de cotações de ações do Santander.
+* Back-end: Contendo - GET, PUT, POST E DELETE - Java e Spring Boot (Spring Web) 
 
-* Back-end, funcional com opção de alterar, excluir e buscar ativos financeiros, API integrado com banco de dados relacional - SPRING DATA JPA.
+  ​					 integrado com  banco de dados relacional(Spring Data JPA)
 
-* Front-end página responsiva e integrada a API REST.
+* Front-end:  Página responsiva e integrada a API REST - Angular.
 
   
 
@@ -25,7 +26,7 @@ Objetivo:  desenvolvimento de uma  API REST  com Spring Boot(Spring Web), result
 
 
 
-	
+​	
 
 ​			
 

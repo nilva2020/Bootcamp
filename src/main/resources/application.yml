@@ -6,8 +6,8 @@ server:
 spring:
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: postgres: // athqtyungxvxvy : 19e46fac27517d855ade3bc9ad996a54b0ec426d0e2c2d2a4f7523f90a7baedb @ ec2-34-202-54-225.compute-1.amazonaws.com : 5432 / dd208nritr4s88
-    username:athqtyungxvxvy
+    url: postgres: postgres: // athqtyungxvxvy : 19e46fac27517d855ade3bc9ad996a54b0ec426d0e2c2d2a4f7523f90a7baedb @ ec2-34-202-54-225.compute-1.amazonaws.com : 5432 / dd208nritr4s88
+    username: athqtyungxvxvy
     password: 19e46fac27517d855ade3bc9ad996a54b0ec426d0e2c2d2a4f7523f90a7baedb
   jpa:
     show-sql: true
